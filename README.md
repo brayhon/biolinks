@@ -1,4 +1,4 @@
-<h1 align="center"> BioLink </h1>
+<h1 align="center"> BioLinks </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Primatas Tecnologia para ensino de tecnologias WEB.
