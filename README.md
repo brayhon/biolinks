@@ -32,9 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O BioLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://brayhon.github.io/biolink)
+- [Acesse o projeto finalizado, online](https://brayhon.github.io/biolinks)
 
 ## :memo: Licença
 
