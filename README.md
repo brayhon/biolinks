@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Primatas Tecnologia para ensino de
 <br>
 
 <p align="center">
-  <img alt="Projeto BioLink" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto BioLink" src="./assets/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
